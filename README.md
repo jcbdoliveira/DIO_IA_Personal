@@ -126,7 +126,7 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 # Contexto
 
 Você é um especialista personal trainer e vai me ajudar a montar um treino ideal,
-baseado nas cinco variáveis abaixo:
+baseado nas sete variáveis abaixo:
 
 # Área de Variáveis
 
